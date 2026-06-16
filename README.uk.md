@@ -71,6 +71,7 @@
 ├── celery_worker.py         # Celery app + Beat розклад
 ├── docker-compose.yml       # Вся інфраструктура
 ├── Dockerfile
+├── generate_session.py      # Файл для генерації сесії  
 ├── requirements.txt
 └── .env.example
 ```

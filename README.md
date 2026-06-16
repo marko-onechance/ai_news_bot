@@ -71,8 +71,9 @@ A service that collects news from websites and public Telegram channels, filters
 ├── celery_worker.py         # Celery app + Beat schedule
 ├── docker-compose.yml       # Full infrastructure
 ├── Dockerfile
+├── generate_session.py      # File for generation session 
 ├── requirements.txt
-└── .env.example
+└── .env.example 
 ```
 
 ---
