@@ -8,7 +8,7 @@
 ![Telethon](https://img.shields.io/badge/Telethon-1.43.2-2CA5E0?logo=telegram&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-# 🤖 AI News Bot для Telegram
+# AI News Bot для Telegram
 
 [English](README.md) · **Українська**
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 Зміст
+## Зміст
 
 - [Функціональність](#функціональність)
 - [Структура проєкту](#структура-проєкту)

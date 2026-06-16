@@ -8,7 +8,7 @@
 ![Telethon](https://img.shields.io/badge/Telethon-1.43.2-2CA5E0?logo=telegram&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-# 🤖 AI News Bot for Telegram
+# AI News Bot for Telegram
 
 **English** · [Українська](README.uk.md)
 
@@ -16,7 +16,7 @@ A service that collects news from websites and public Telegram channels, filters
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Project Structure](#project-structure)
